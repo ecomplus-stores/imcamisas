@@ -38,9 +38,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
+      "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "lowest_price",
       "title": "Produtos Populares NBA",
       "collection_id": "5fdfc50169274c73fceb03c1:categories:NBA:/nba"
     },
