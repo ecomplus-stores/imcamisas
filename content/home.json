@@ -36,15 +36,6 @@
       "title": "Lançamentos"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "title": "Produtos Populares NBA",
-      "collection_id": "5fdfc50169274c73fceb03c1:categories:NBA:/nba"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
