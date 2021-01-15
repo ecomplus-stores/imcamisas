@@ -36,6 +36,14 @@
       "title": "Lançamentos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 2,
+      "collection_id": "5fdfc50169274c73fceb03c1:categories:NBA:/nba",
+      "title": "Mais Populares: NBA"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
