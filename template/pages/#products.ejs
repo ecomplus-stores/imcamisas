@@ -78,7 +78,9 @@ _.breadcrumbs.push({
   });
   storefront.on('widget:@ecomplus/widget-minicart', function () {
     setTimeout(function () {
-      document.querySelector('.product__buy').before(document.querySelector('#guides'))
+      if(document.querySelectorAll('#guides').length) {
+        document.querySelector('.product__buy').before(document.querySelector('#guides'))
+      }
     }, 800);
   });
 </script>
