@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0982f0f345bce45bd10f43ce20054d58.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6e71a811880158be7862a0399a3ac14e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.61759b5d22356a15858dd38e1f4f7482.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d78ce94f33b01ef39743e7fd94876e39.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.cd90a8b17b4fc25e8149724154571b01.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "I&M Camisas",
+  "short_name": "I&M Camisas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de Artigos Esportivos",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
